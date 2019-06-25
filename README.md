@@ -3,7 +3,7 @@
 
 Used Frameworks:
 
-    jQuery - https://jquery
+    jQuery - https://jquery.com
 
     skel.js - http://skel.io
 
