@@ -8,3 +8,5 @@ Used Frameworks:
     skel.js - http://skel.io
 
     HTML5 UP - https://html5up.net/
+    
+    Typer.js - https://steven.codes/typerjs/
